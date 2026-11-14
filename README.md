@@ -3,7 +3,7 @@
 
 ### Aspiring Ai Data Analyst | SQL · Python · Power BI · Excel
 
-I'm currently transitioning into Data Analytics through professional training and hands-on portfolio projects.
+I'm currently transitioning into Ai Data Analytics through professional training and hands-on portfolio projects.
 
 My focus is on transforming data into reliable, understandable, and actionable business insights.
 
