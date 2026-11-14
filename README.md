@@ -1,7 +1,7 @@
 
 # Hi, I'm Andy 👋
 
-### Aspiring Data Analyst | SQL · Python · Power BI · Excel
+### Aspiring Ai Data Analyst | SQL · Python · Power BI · Excel
 
 I'm currently transitioning into Data Analytics through professional training and hands-on portfolio projects.
 
